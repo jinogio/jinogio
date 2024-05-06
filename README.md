@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giorgi Bakuradze</h1>
 <h3 align="center">A Full Stack Web developer from Georgia</h3>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhuMGE0dWptOTMwZWEwcmp0bG51eTA4Znc5bG90dzI1MGQ1ZmMyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Girl in a jacket" width="50" height="60">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhuMGE0dWptOTMwZWEwcmp0bG51eTA4Znc5bG90dzI1MGQ1ZmMyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif"  width="200" height="200">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinogio&label=Profile%20views&color=0e75b6&style=flat" alt="jinogio" /> </p>
 
